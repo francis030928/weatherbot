@@ -1,0 +1,7 @@
+DIRECTION FOR IMPLEMENTATION
+1. Get data from API: Create a function that asks for location, then input the location into the API endpoint.
+2. Clean the data according to your need
+3. Create a model from the data to predict future occurences
+4. Create a time series to predict feature occurences of temperature, pressure, humidity, windspeed, etc
+5. Create a speech recognition function that takes speech.
+6. Implement on streamlit according to how you want the design.

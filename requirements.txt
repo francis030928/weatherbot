@@ -1,0 +1,17 @@
+ipykernel==6.23.0
+ipython==8.13.2
+joblib==1.2.0
+matplotlib==3.7.1
+meteostat==1.6.5
+nltk==3.8.1
+numpy==1.24.3
+pandas==2.0.1
+plotly==5.14.1
+regex==2023.5.5
+requests==2.30.0
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
+streamlit==1.22.0
+tqdm==4.65.0
+xgboost==1.7.5
